@@ -1,5 +1,5 @@
 # Nucleophilicity_fom_a_Conceptual_DFT_viewpoint
-Description: Examples of inputs and outputs for the calculated species to obtain the energies I2, I and A for the 203 molecule
+Description: Examples of inputs for the calculated species to obtain the energies I2, I and A for the 203 molecule
 
 Order of archives:
 The example correspond to the 203 molecule (5-methoxy-indole)
